@@ -2,5 +2,5 @@
 
 <p align='center'>
 <a href="https://twitter.com/AbelTra36641362">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2310199%2Fbird_logo_twitter_twitter_logo_icon&psig=AOvVaw3C0sHGK1NFURgRxWjs2KSe&ust=1595496731356000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD1ltPG4OoCFQAAAAAdAAAAABAD" />
+  <img src="https://cdn0.iconfinder.com/data/icons/twitter-ui-flat/48/Twitter_UI-02-512.png" />
 </a>&nbsp;&nbsp;
