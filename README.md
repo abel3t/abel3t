@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning about Front-end with ReactJs
 
 ### Some stats about Abel Tran
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=abel3t&&show_icons=true&title_color=ffffff&icon_color=FEE11A&text_color=daf7dc&bg_color=222222" >
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=abel3t&&show_icons=true&title_color=ffffff&icon_color=F7F06D&text_color=7BB2D9&bg_color=1F2421" >
