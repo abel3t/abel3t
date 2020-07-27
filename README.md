@@ -1,6 +1,6 @@
 <h2 align="Center">  Hi!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t" /> </p>
-<div>
+<div style="margin-bottom: 10px">
     - 💻 I’m 20 Years old Developer<br/>
     - 🌱 I’m currently learning about Front-end with ReactJs
 </div>
