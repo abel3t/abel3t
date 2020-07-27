@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about Front-end with ReactJs
 </div>
 
-<div style="display: flex">
+<div style="display: flex; margin-top: 10px">
   <img style="flex: 1" align='left' src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
   <img style="flex: 1" align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact"/>
 <div>
