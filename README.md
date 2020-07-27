@@ -6,5 +6,5 @@
 </div>
 <br />
 
-<img align="left" width="50" src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
 <img align='right' width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact"/>
