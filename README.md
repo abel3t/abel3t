@@ -1,6 +1,7 @@
-<h2 align='center'>Hi! 👋🏾</h2>
+<h2 align="Center">  Hi!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t" /> </p>
 
-<p align='center'>
-<a href="https://twitter.com/AbelTra36641362">
-  <img src="https://cdn0.iconfinder.com/data/icons/twitter-ui-flat/48/Twitter_UI-02-512.png" width="100px"/>
-</a>&nbsp;&nbsp;
+- 🌱 I’m currently learning about Front-end with ReactJs
+
+### Some stats about Abel Tran
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=abel3t&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
