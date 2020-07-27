@@ -1,8 +1,8 @@
 <h2 align="Center">  Hi!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t" /> </p>
 - 💻 I’m 20 Years old Developer<br/>
-- 🌱 I’m currently learning about Front-end with ReactJs
-<div>
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
-  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact"/>
+- 🌱 I’m currently learning about Front-end with ReactJs<br/>
+<div style="display: flex">
+  <img style="flex: 1" align='left' src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
+  <img style="flex: 1" align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact"/>
 <div>
