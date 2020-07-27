@@ -5,7 +5,5 @@
     - 🌱 I’m currently learning about Front-end with ReactJs
 </div>
 
-<div style="display: flex; margin-top: 20px">
-  <img style="flex: 1" align='left' src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
-  <img style="flex: 1" align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact"/>
-<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact"/>
