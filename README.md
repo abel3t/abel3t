@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t" /> </p>
 <div>
     - 💻 I’m 20 Years old Developer.<br/>
-    - 🌱 I’m currently learning about Java.<br/>
+    - 🌱 I’m currently learning about Kotlin.<br/>
 </div>
 <br />
 
