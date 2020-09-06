@@ -7,5 +7,5 @@
 
 <br />
 
-<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true&theme=onedark"/>
-<img align='right' width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact&theme=onedark"/>
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
+<img align='right' width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact"/>
