@@ -1,5 +1,7 @@
 <h2 align="center">  Hi There!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t"/> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t"/>
+</p>
 <div>
     - 💻 I’m Junior NodeJs Developer.<br/>
     - 🌱 I’m currently learning about C#.<br/>
