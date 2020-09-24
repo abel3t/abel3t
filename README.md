@@ -4,7 +4,7 @@
 </p>
 <div>
     - 💻 I’m Junior NodeJs Developer.<br/>
-    - 🌱 I’m currently learning about Java.<br/>
+    - 🌱 I’m currently learning about TypeScript.<br/>
 </div>
 
 <br />
