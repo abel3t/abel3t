@@ -5,6 +5,7 @@
 <div>
     - 💻 I’m Junior NodeJs Developer.<br/>
     - 🌱 I’m currently learning about TypeScript, GraphQL.<br/>
+    - ...
 </div>
 
 <br />
