@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t"/>
 </p>
 <div>
-    - ✞ I'm Christian.
+    - ✞ I'm Christian. <br/>
     - 💻 I’m Junior NodeJs Developer.<br/>
     - 🌱 I’m currently learning about TypeScript, GraphQL.<br/>
 </div>
