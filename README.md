@@ -12,3 +12,4 @@
 
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=abel3t&show_icons=true"/>
 <img align='right' width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abel3t&layout=compact"/>
+<a href="https://app.daily.dev/abel3t"><img src="https://api.daily.dev/devcards/6e2b8c46a7a4477488f7e139ab64582b.png?r=ved" width="400" alt="Abel Tran's Dev Card"/></a>
